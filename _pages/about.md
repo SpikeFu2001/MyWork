@@ -2,9 +2,11 @@
 permalink: /about
 redirect_from:
   - /
-title: "About"
+title: "About Me"
 --- 
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm Spike(Meiwen) Fu. I give myself a rather "masculine" English name because I love to expolore the bundaries between genders. I am currently pursuing a Computer Science Games Bachelor degree at Univerisity of Southern California with a minor degree in East Asian Languages and Cultures. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I have an extensive list of interests, and art is definitely on the top. Generally speaking, I enjoy presenting the world inside of my head to others. 
+
+Here you can find some of my favorative past works. They might not be sophisicated or impressive, but they tell my personality: flexible, passionate, kind, communicative, and somewhat shy.
