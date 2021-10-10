@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://spike-fu.github.io"
 baseurl: "/Spike-s-Work"
 github_username: "spike-fu"
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "aqua"
 search: true
 
 # Build settings
@@ -63,14 +63,14 @@ plugins:
 author:
   name   : "Meiwen Fu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Welcome to Spike's World."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Spike-Fu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/fuspike/"
 
 footer:
   links:
@@ -79,7 +79,7 @@ footer:
       url: "https://github.com/Spike-Fu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/fuspike/"
 
 defaults:
   # _pages
