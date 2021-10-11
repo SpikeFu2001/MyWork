@@ -98,7 +98,7 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
       }
     </style>
 ## Game Design
-### Card Design for[Space Object: One Man Army](https://steamcommunity.com/sharedfiles/filedetails/?id=2594728972)
+### [Space Object: One Man Army](https://steamcommunity.com/sharedfiles/filedetails/?id=2594728972)
 {% include gallery class="full" layout="third"%}
 ### Box Design for Origami Chase
 {% include gallery id="gallery_2" layout="half" layout="third"  %}
