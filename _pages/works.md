@@ -98,8 +98,11 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
       }
     </style>
 ## Game Design
-{% include gallery class="full" layout="third" caption="### Card Design for [Space Object: One Man Army](https://steamcommunity.com/sharedfiles/filedetails/?id=2594728972)" %}
-{% include gallery id="gallery_2" layout="half" layout="third" caption="### Box Design for [Origami Chase](https://steamcommunity.com/sharedfiles/filedetails/?id=2594728972)" %}
+### Card Design for [Space Object: One Man Army](https://steamcommunity.com/sharedfiles/filedetails/?id=2594728972)
+{% include gallery class="full" layout="third"%}
+### Box Design for [Origami Chase](https://steamcommunity.com/sharedfiles/filedetails/?id=2594728972)
+{% include gallery id="gallery_2" layout="half" layout="third"  %}
 
 ## Art Work
-{% include gallery id="gallery_3" layout="half" layout="third" caption="### My Personal Artwork" %}
+### My Personal Artwork
+{% include gallery id="gallery_3" layout="half" layout="third"%}
