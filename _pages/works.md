@@ -1,9 +1,9 @@
 ---
 permalink: /works/
 title: "My Work"
-last_modified_at: 2021-10-09T16:20:02-05:00
+show_date: true
 
-gallery:
+one_man_army:
   - url: /assets/images/works/tabletop/obsti.png
     image_path: /assets/images/works/tabletop/obsti.png
     alt: "obsti card"
@@ -25,13 +25,26 @@ gallery:
     alt: "artifact card"
     title: "The artifact card"
 
-gallery_2:
-  - url: /assets/images/works/origami/origami.png
-    image_path: /assets/images/works/origami/origami.png
-    alt: "origami box"
-    title: "The origami chase box" 
+ho_ho_who_did_it:
+  - url: /assets/images/works/hoho/ho_ho_whodidit_start.png
+    image_path: /assets/images/works/hoho/ho_ho_whodidit_start.png
+    alt: "start menu"
+    title: "Start Menu" 
+  - url: /assets/images/works/hoho/Title.png
+    image_path: /assets/images/works/hoho/Title.png
+    alt: "title"
+    title: "title" 
+  - url: /assets/images/works/hoho/murder.png
+    image_path: /assets/images/works/hoho/murder.png
+    alt: "murder"
+    title: "Murder" 
+  - url: /assets/images/works/hoho/santa.png
+    image_path: /assets/images/works/hoho/santa.png
+    alt: "santa is dead"
+    title: "Santa Death Scene" 
 
-gallery_3:
+
+personal_artwork:
   - url: /assets/images/spike_arts/chuntian.png
     image_path: /assets/images/spike_arts/chuntian.png
     alt: "obsti card"
@@ -40,10 +53,6 @@ gallery_3:
     image_path: /assets/images/spike_arts/howareyou.jpg
     alt: "obsti card"
     title: "how are you?" 
-  - url: /assets/images/spike_arts/mingxieipad.png
-    image_path: /assets/images/spike_arts/mingxieipad.png
-    alt: "obsti card"
-    title: "mingxieipad"
   - url: /assets/images/spike_arts/ja.png
     image_path: /assets/images/spike_arts/ja.png
     alt: "obsti card"
@@ -68,21 +77,15 @@ gallery_3:
     image_path: /assets/images/spike_arts/wufaxingrong.png
     alt: "obsti card"
     title: "wufaxingrong"
-
   - url: /assets/images/spike_arts/lansetoufa.png
     image_path: /assets/images/spike_arts/lansetoufa.png
     alt: "obsti card"
     title: "lansetoufa"  
-
   - url: /assets/images/spike_arts/wate.jpg
     image_path: /assets/images/spike_arts/wate.jpg
     alt: "obsti card"
     title: "wate"  
-
-  - url: /assets/images/spike_arts/ipadbizhi.png
-    image_path: /assets/images/spike_arts/ipadbizhi.png
-    alt: "obsti card"
-    title: "ipadbizhi"    
+ 
 
 toc: true
 toc_label: "My Work"
@@ -91,18 +94,22 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
  <style>
       figure {
-       justify-content: flex-start;
+       justify-content: flex-start
       }
       a{
         margin-left: 1em
       }
-    </style>
-## Game Design
-### [Space Object: One Man Army](https://steamcommunity.com/sharedfiles/filedetails/?id=2594728972)
-{% include gallery class="full" layout="third"%}
-### Box Design for Origami Chase
-{% include gallery id="gallery_2" layout="half" layout="third"  %}
+      .gallery{
+        width: 100%
+      }
+  </style>
 
+## Game
+### [Ho Ho Who Did It](https://itch.io/jam/newbies-and-vets-game-jam-2021/rate/1268977)
+{% include gallery id="ho_ho_who_did_it" class="full" layout="half"%} 
+---
+### [Space Object: One Man Army](https://steamcommunity.com/sharedfiles/filedetails/?id=2594728972)
+{% include gallery id="one_man_army" class="full" layout="third"%}
 ## Art Work
-### My Personal Artwork
-{% include gallery id="gallery_3" layout="half" layout="third"%}
+### Personal Artwork
+{% include gallery id="personal_artwork" layout="half" layout="third"%}
