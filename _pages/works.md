@@ -1,7 +1,7 @@
 ---
 permalink: /works/
 title: "My Work"
-show_date: true
+last_modified_at: 2022-01-23T16:20:02-05:00
 
 one_man_army:
   - url: /assets/images/works/tabletop/obsti.png
