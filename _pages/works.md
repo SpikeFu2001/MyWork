@@ -41,7 +41,11 @@ ho_ho_who_did_it:
   - url: /assets/images/works/hoho/santa.png
     image_path: /assets/images/works/hoho/santa.png
     alt: "santa is dead"
-    title: "Santa Death Scene" 
+    title: "Santa Death Scene"
+  - url: /assets/images/works/hoho/mrs_claus.png
+    image_path: /assets/images/works/hoho/mrs_claus.png
+    alt: "Mrs.Claus"
+    title: "Mrs.Claus eating candy"  
 
 
 personal_artwork:
